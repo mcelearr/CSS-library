@@ -1,10 +1,14 @@
+body {
+  margin: 0;
+}
+
 .container {
   width: 100%;
   height: auto;
 }
 
 .col-1 {
-  width: 6.33333333333%;
+  width: 5.75%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -12,7 +16,7 @@
 }
 
 .col-2 {
-  width: 14.6666666666%;
+  width: 11.5%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -20,7 +24,7 @@
 }
 
 .col-3 {
-  width: 23%;
+  width: 17.25%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -28,7 +32,7 @@
 }
 
 .col-4 {
-  width: 31.3333333333%;
+  width: 23%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -36,7 +40,7 @@
 }
 
 .col-5 {
-  width: 39.6666666666%;
+  width: 28.75%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -44,7 +48,7 @@
 }
 
 .col-6 {
-  width: 48%;
+  width: 34.5%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -52,7 +56,7 @@
 }
 
 .col-7 {
-  width: 56.3333333333%;
+  width: 40.25%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -60,7 +64,7 @@
 }
 
 .col-8 {
-  width: 64.666666666%;
+  width: 46%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -68,7 +72,7 @@
 }
 
 .col-9 {
-  width: 73%;
+  width: 51.75%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -76,7 +80,7 @@
 }
 
 .col-10 {
-  width: 81.3333333333%;
+  width: 57.5%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -84,7 +88,7 @@
 }
 
 .col-11 {
-  width: 89.666666666%;
+  width: 63.25%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;
@@ -92,7 +96,7 @@
 }
 
 .col-12 {
-  width: 98%;
+  width: 69%;
   display: inline-block;
   padding-left: 1%;
   padding-right: 1%;

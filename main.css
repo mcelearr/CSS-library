@@ -1,0 +1,100 @@
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.col-1 {
+  width: 6.33333333333%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-2 {
+  width: 14.6666666666%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-3 {
+  width: 23%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-4 {
+  width: 31.3333333333%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-5 {
+  width: 39.6666666666%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-6 {
+  width: 48%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-7 {
+  width: 56.3333333333%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-8 {
+  width: 64.666666666%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-9 {
+  width: 73%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-10 {
+  width: 81.3333333333%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-11 {
+  width: 89.666666666%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
+
+.col-12 {
+  width: 98%;
+  display: inline-block;
+  padding-left: 1%;
+  padding-right: 1%;
+  vertical-align:top;
+}
